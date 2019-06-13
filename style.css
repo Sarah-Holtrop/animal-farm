@@ -1,0 +1,12 @@
+img {
+  height: 250px;
+  width: 250px;
+}
+
+.bg {
+  background-image: url("/images/farm.jpg");
+  height: 40vh;
+  background-repeat: no-repeat;
+  background-size: cover;
+
+}
